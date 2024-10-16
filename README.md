@@ -6,6 +6,7 @@
 <h1> How to run the simulation </h1>
 <p> 1. Navigate to the f24_robotics_inside_simulation directory</p>
 <p> 2. Perform a colcon build then source the install/setup.bash file </p>
-<p> 3. From here enter "ros2 launch f24_robotics_inside_simulation launch.py" to run the simulation </p>
+<p> 3. Enter "source /opt/ros/humble/setup.bash" to source the ros setup</p>
+<p> 4. From here enter "ros2 launch f24_robotics_inside_simulation launch.py" to run the simulation </p>
 
 <h3> NOTE: The model is quite large, it is reconmended to lower the openGL graphics settings for better performance </h3>
