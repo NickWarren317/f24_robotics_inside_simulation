@@ -4,6 +4,8 @@
 <p> 3. Each door within the dorms are contained in the dorm's children objects, this is a good way to open a specific door as each door is not labeled </p>
 
 <h1> How to run the simulation </h1>
+
+<p> 0. Clone this repository "https://github.com/NickWarren317/f24_robotics_inside_simulation" </p>
 <p> 1. Navigate to the f24_robotics_inside_simulation directory</p>
 <p> 2. Perform a colcon build then source the install/setup.bash file </p>
 <p> 3. Enter "source /opt/ros/humble/setup.bash" to source the ros setup</p>
